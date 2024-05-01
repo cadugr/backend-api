@@ -91,7 +91,7 @@ Lembrando que para executar a chamada acima, será preciso ter o curl instalado 
 
 Para que o dado seja consumido da fila, será necessário também executar o projeto a seguir em seu ambiente, seguindo as instruções do mesmo:
 
-* [Worker de pagamentos](http://localhost:15672/#/)
+* [Worker de pagamentos](https://github.com/cadugr/pagamentos-worker)
 
 Créditos totais e referência:
 
