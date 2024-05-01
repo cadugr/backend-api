@@ -1,0 +1,1 @@
+ab -n 10000 -c 1 -p pagamento.json -T application/json http://localhost:8080/pagamentos
